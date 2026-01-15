@@ -8,4 +8,4 @@ sentence-transformers
 transformers
 torch
 unstructured[pdf]
-python-magic-bin
+python-magic
